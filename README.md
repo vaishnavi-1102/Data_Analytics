@@ -1,3 +1,4 @@
+# Task-1
 # Netflix Titles Dataset
 
 ## Overview
@@ -42,6 +43,68 @@ This dataset can be used for:
 1. Open the cleaned Excel file (e.g., `netflix_titles_cleaned.csv`).
 2. Use Excel filtering, formulas, or visualization tools to analyze the data.
 3. Alternatively, import the dataset into Python or other tools for machine learning or statistical analysis.
+
+# Task-2
+# Power BI Sales Analysis Dashboard
+
+## Overview
+This Power BI report provides a comprehensive sales and profit analysis using the Superstore dataset. It includes multiple visualizations to explore sales patterns across categories, regions, dates, products, and customer segments. The report aims to help stakeholders understand key business drivers and make data-driven decisions.
+
+## Tools
+- Power BI Desktop
+- Data source: Superstore.csv
+
+## Key Visuals & Insights
+
+### Sum of Sales by Category
+- Highlights sales performance across product categories.
+- Technology leads sales, suggesting strong market preference.
+- Most profit comes from select products, advising targeted marketing initiatives.
+- The West region outperforms others in sales.
+
+### Sum of Sales by Order Date
+- Shows sales variation by order date to identify trends and seasonality.
+- Helps forecast sales growth and plan inventory.
+
+### Sum of Profit by Product Name
+- Identifies most and least profitable products.
+- Guides inventory and pricing strategies.
+
+### Sum of Profit by Segment
+- Displays profit distribution across consumer, corporate, and home office segments.
+- Helps tailor marketing efforts to high-value customer groups.
+
+### Sum of Sales by City
+- Reveals urban markets driving sales.
+- Supports resource allocation to key cities and growth in underperforming areas.
+
+### Sum of Sales by Region
+- Sales distribution across geographic regions.
+- Highlights strong and weak markets for strategic focus.
+
+### Sales by Shipping Mode
+- Illustrates how sales are split among shipping options.
+- Useful for optimizing shipping strategies and costs.
+
+### Quantity Sold by Sub-Category
+- Shows product popularity by quantity sold.
+- Supports inventory management and product focus.
+
+## How to Use
+- Interact with slicers and filters to explore different facets of the business.
+- Use the report to identify sales and profit drivers, customer preferences, and operational insights.
+- Export the report as PDF or capture screenshots for presentations.
+
+## Files
+- `Superstore.csv`: Dataset used for analysis (no sensitive data).
+- `SalesAnalysis.pbix`: Power BI report file with all visuals and measures.
+- `README.md`: This documentation file.
+
+## Recommendations
+- Focus marketing on high performing categories and customer segments.
+- Optimize inventory based on product quantity sold and profit.
+- Improve shipping cost management by analyzing sales by shipping mode.
+- Explore regional opportunities with tailored strategies.
 
 ## Contact
 For questions, feedback, or collaboration, please contact: [vadlakondavaishnavi2003@gmail.com]
