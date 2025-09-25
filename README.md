@@ -106,6 +106,44 @@ This Power BI report provides a comprehensive sales and profit analysis using th
 - Improve shipping cost management by analyzing sales by shipping mode.
 - Explore regional opportunities with tailored strategies.
 
+# Task-3
+# Sales Dashboard Project
+# Objective
+Create an interactive dashboard in Power BI that visualizes sales and operational KPIs for business stakeholders. The dashboard provides insights into product sales, agent performance, and customer activity.
+
+# Dataset
+Source: Product_Sales dataset (sample sales and call data)
+
+Key fields: Agent_Name, ProductSold, Duration, CustomerID
+
+Dashboard Components
+KPI Cards
+Sum of ProductSold: Total products sold across all agents.
+
+Sum of Duration: Total operational duration (e.g., call duration).
+
+# Visuals
+Line Chart: Displays total products sold by each agent for performance comparison.
+
+Slicer: Allows filtering by agent name to view agent-specific data.
+
+# Features
+Interactive slicers enable users to filter and drill into data by agent.
+
+Clear visualization of sales volume and operational load.
+
+Consistent color and layout for improved readability.
+
+# Tools Used
+Power BI Desktop for dashboard creation
+
+Dataset imported from CSV/Excel format
+
+# Outcome
+This dashboard helps stakeholders monitor sales performance, optimize team efficiency, and make informed business decisions based on real-time data filters and visuals.
+
+
+
 ## Contact
 For questions, feedback, or collaboration, please contact: [vadlakondavaishnavi2003@gmail.com]
 
