@@ -143,6 +143,44 @@ Dataset imported from CSV/Excel format
 This dashboard helps stakeholders monitor sales performance, optimize team efficiency, and make informed business decisions based on real-time data filters and visuals.
 
 
+## Task-4
+# SQL Database Project - Students and Courses
+
+## Project Description
+This project demonstrates the use of SQL queries to create and analyze a student database. It showcases table creation, data insertion, data extraction, filtering, sorting, aggregation, and join operations using MySQL (or any SQL variant).
+
+## Dataset
+- StudentsDB: Stores student details (ID, name, age, course).
+- Courses: Stores course information including instructor details.
+
+## Tools
+- MySQL / PostgreSQL / SQLite
+
+## SQL Queries Included
+- Table creation and data insertion for both datasets.
+- Data selection and filtering using WHERE, ORDER BY.
+- Aggregate functions such as COUNT, AVG, SUM.
+- JOIN operations (INNER JOIN, LEFT JOIN, RIGHT JOIN) to combine student and course data.
+- Subqueries for advanced filtering.
+- Views for reusable SQL statements.
+- Indexing for query optimization.
+
+## Instructions to Run
+1. Import the SQL schema and data by running the provided SQL scripts.
+2. Execute the queries sequentially in your SQL client.
+3. Review the output for each query in the result pane.
+4. Use query screenshots as proof of execution.
+
+## Sample Queries
+- List all students with their course and assigned instructor using INNER JOIN.
+- Count the number of students per course.
+- Find students older than the average age.
+- Create a view of computer science students for quick reference.
+
+## Future Work
+- Add more tables like Enrollment, Grades.
+- Explore advanced window functions and stored procedures.
+- Optimize indexes based on query performance stats.
 
 ## Contact
 For questions, feedback, or collaboration, please contact: [vadlakondavaishnavi2003@gmail.com]
