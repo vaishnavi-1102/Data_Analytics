@@ -182,6 +182,70 @@ This project demonstrates the use of SQL queries to create and analyze a student
 - Explore advanced window functions and stored procedures.
 - Optimize indexes based on query performance stats.
 
+
+## Task 5: Titanic Dataset EDA in Python
+Objective
+Perform Exploratory Data Analysis (EDA) on the Titanic dataset to understand passenger demographics, survival trends, and relationships between variables such as age, fare, and class.
+
+## Dataset
+The Titanic dataset contains information on passengers, including:
+PassengerId
+Survived (0 = No, 1 = Yes)
+Pclass (Passenger Class)
+Name
+Sex
+Age
+SibSp (Number of Siblings/Spouses aboard)
+Parch (Number of Parents/Children aboard)
+Ticket number
+Fare
+Cabin
+Embarked (Port of Embarkation)
+
+## Tools Used
+Python 3
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Jupyter Notebook / VS Code with Jupyter extension
+
+## Steps Performed
+Data Loading and Inspection
+Loaded the dataset from CSV into a Pandas DataFrame.
+Previewed the first few rows.
+Checked data types, null values, and summary statistics.
+Handling Missing Values
+Identified columns with missing values (such as Age and Cabin).
+Planned further cleaning or imputation if needed.
+Categorical Data Analysis
+Counted values for important categorical variables like survival status, passenger class, and gender.
+
+## Data Visualization
+Plotted histograms for continuous variables (such as Age).
+Created scatterplots to explore relationships (e.g., Age vs Fare colored by Survival).
+Plotted correlation heatmaps for numeric variables.
+
+## Observations and Insights
+Noted key trends and patterns after each visualization.
+Summarized findings at the end to provide an overview of survivorship patterns and influential factors.
+
+## How to Run
+Open the eda_titanic.ipynb notebook in VS Code or Jupyter.
+Make sure all required Python packages are installed (pandas, numpy, matplotlib, seaborn).
+Run each cell in sequence to reproduce the analysis and plots.
+Review Markdown cells for insights and documentation.
+
+## Key Learnings
+How to perform initial data exploration and summarization.
+Techniques for handling missing data.
+Using visualizations to uncover relationships and trends.
+Documenting findings effectively for sharing and reporting.
+
+## References
+Titanic Kaggle Dataset: Titanic: Machine Learning from Disaster
+Python Libraries: Pandas, Matplotlib, Seaborn documentation.
+
 ## Contact
 For questions, feedback, or collaboration, please contact: [vadlakondavaishnavi2003@gmail.com]
 
